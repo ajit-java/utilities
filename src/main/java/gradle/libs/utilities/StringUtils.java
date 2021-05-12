@@ -3,8 +3,6 @@
  */
 package gradle.libs.utilities;
 
-import gradle.libs.list.LinkedList;
-
 public class StringUtils {
     public static String join(LinkedList source) {
         return JoinUtils.join(source);
