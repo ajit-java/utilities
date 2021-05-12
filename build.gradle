@@ -3,7 +3,7 @@
  */
 
 plugins {
-    //id 'gradle.libs.java-library-conventions'
+    id 'gradle.libs.java-library-conventions'
 }
 
 // dependencies {
